@@ -1,0 +1,25 @@
+.lab {
+    height: 100vh;
+
+    overflow-y: scroll;
+  }
+  .lab::-webkit-scrollbar
+{
+	width: 6px;
+	background-color: #F5F5F5;
+}
+  
+.mainbody{
+  height: 100vh;
+}
+
+.labbody {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+/* .labbaodyscreen{
+height: 100vh;
+} */
+
+
